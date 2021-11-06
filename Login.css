@@ -1,5 +1,9 @@
-.google-sign-in-button {
-    position: relative;
-    width: 500px;
-    height: 400px;
-    }
+.g-signin2 {
+    float: right;
+    text-align: center;
+    padding: 250px 900px;
+    text-decoration: none;
+    font-size: 17px;
+
+    transform: scale(2);
+  }
